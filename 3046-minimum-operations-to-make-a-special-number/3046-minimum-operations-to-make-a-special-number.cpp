@@ -2,22 +2,43 @@ class Solution {
 public:
     int minimumOperations(string num) {
         int n=num.size();
+        int i=n-1;
         int ans=n;
-        for(int i=n-1; i>=0; i--)
-        {
-            for(int j=i-1;j>=0; j--)
-            {
-                int t= (num[i]-'0')+(num[j]-'0')*10;
-                if(t%25==0)
-                {
-                  ans=min(ans,n-j-2);
-                }
-            }
-            if(num[i]=='0')
-            ans=min(ans,n-1);
-        }
-        return ans;
+        int c=0;
 
+        while(i>=0 && num[i]!='5' )
+        {
+            i--; 
+            c++;
+        }
+        i--;
+        while(i>=0 && num[i]!='2' && num[i]!='7')
+        {
+            i--;
+            c++;
+        }
+        if(i>=0)
+        ans=min(ans,c);
+        i=n-1;
+        
+        c=0;
+        while(i>=0 && num[i]!='0')
+        {
+            i--;
+            c++;
+        }
+        if(i>=0)
+        ans=min(ans,n-1);
+        i--;
+        while(i>=0 && num[i]!='0' && num[i]!='5')
+        {
+            i--;
+            c++;
+        }
+        if(i>=0)
+        ans=min(ans,c);
+
+       return ans;
         
     }
 };

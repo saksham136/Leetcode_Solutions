@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/saksham136/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Array
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/saksham136/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

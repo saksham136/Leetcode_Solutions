@@ -19,7 +19,7 @@ public:
          ListNode*curr=head;
          ListNode*nxt=head->next;
 
-         while(curr!=NULL && curr->next!=NULL )
+         while(curr->next!=NULL )
          {
             curr->next=prev;
             prev=curr;

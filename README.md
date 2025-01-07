@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->

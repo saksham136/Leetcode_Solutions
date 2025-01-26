@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0890-lemonade-change](https://github.com/saksham136/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/saksham136/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |

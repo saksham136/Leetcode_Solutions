@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
@@ -92,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

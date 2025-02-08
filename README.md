@@ -107,10 +107,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1955-seat-reservation-manager](https://github.com/saksham136/Leetcode_Solutions/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1955-seat-reservation-manager](https://github.com/saksham136/Leetcode_Solutions/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |

@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -108,14 +109,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1955-seat-reservation-manager](https://github.com/saksham136/Leetcode_Solutions/tree/master/1955-seat-reservation-manager) |
+| [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1955-seat-reservation-manager](https://github.com/saksham136/Leetcode_Solutions/tree/master/1955-seat-reservation-manager) |
+| [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->

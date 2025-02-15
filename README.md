@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/saksham136/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/saksham136/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
 | ------- |

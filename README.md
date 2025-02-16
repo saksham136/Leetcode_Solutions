@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/saksham136/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/saksham136/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saksham136/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/saksham136/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/saksham136/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |

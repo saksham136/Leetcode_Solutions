@@ -6,13 +6,10 @@
 var filter = function(arr, fn) {
 
     let fa=[];
-    arr.forEach((num,index)=>{
-        if(fn(num,index))
-        fa.push(num);
-    })
+    for(let i=0;i<arr.length;i++)
+    {
+        if(fn(arr[i],i))
+        fa.push(arr[i]);
+    }
     return fa;
-    // for(int i=0;i<arr.size();i++)
-    // {
-    //     if(fn())
-    // }
 };

@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-    bool help(set<string>& s, int n, int ind, string& temp, string& ans) {
+    bool help(set<string>& s, int n, int ind, string temp, string& ans) {
     if (ind == n) {
         if (s.find(temp) == s.end()) {
             ans = temp;
@@ -14,20 +14,18 @@ public:
 
     
 
-    temp.push_back('0');
-    if(help(s, n, ind + 1, temp, ans))
+    if(help(s, n, ind + 1, temp+"0", ans))
     return true;
-    temp.pop_back(); // Backtrack
+ 
 
    
 
-    temp.push_back('1');
-    if(help(s, n, ind + 1, temp, ans))
+    
+    if(help(s, n, ind + 1, temp+"1", ans))
     return true;
-    temp.pop_back();
 
     return false;
-     // Backtrack
+
 }
 
 

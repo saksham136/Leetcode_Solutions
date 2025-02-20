@@ -2,26 +2,32 @@ class Solution {
 public:
 
 
-    void help(set<string>& s, int n, int ind, string& temp, string& ans) {
+    bool help(set<string>& s, int n, int ind, string& temp, string& ans) {
     if (ind == n) {
         if (s.find(temp) == s.end()) {
             ans = temp;
+            return true;
 
         }
-        return;
+        return false;
     }
 
     
 
     temp.push_back('0');
-    help(s, n, ind + 1, temp, ans);
+    if(help(s, n, ind + 1, temp, ans))
+    return true;
     temp.pop_back(); // Backtrack
 
    
 
     temp.push_back('1');
-    help(s, n, ind + 1, temp, ans);
-    temp.pop_back(); // Backtrack
+    if(help(s, n, ind + 1, temp, ans))
+    return true;
+    temp.pop_back();
+
+    return false;
+     // Backtrack
 }
 
 
@@ -36,7 +42,7 @@ public:
         {
             s.insert(nums[i]);
         }
-        help(s,n,ind,temp,ans);
+       bool x= help(s,n,ind,temp,ans);
         return ans;
         
     }

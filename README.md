@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/saksham136/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0890-lemonade-change](https://github.com/saksham136/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -153,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saksham136/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->

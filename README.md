@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -148,5 +151,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saksham136/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->

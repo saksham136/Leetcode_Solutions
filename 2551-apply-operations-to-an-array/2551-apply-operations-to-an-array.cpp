@@ -13,17 +13,20 @@ public:
             }
 
         }
-        vector<int>ans(n,0);
+        
         int x=0;
         for(int i=0;i<n;i++)
         {
            if(arr[i]!=0)
            {
-            ans[x]=arr[i];
-            x++;
+          arr[x++]=arr[i];
            }
         }
-        return ans;
+        while(x<n)
+        {
+            arr[x++]=0;
+        }
+        return arr;
         
         
     }

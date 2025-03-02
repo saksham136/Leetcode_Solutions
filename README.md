@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3429-special-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3429-special-array-i) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Tree
 |  |
 | ------- |

@@ -215,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saksham136/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/saksham136/Leetcode_Solutions/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->

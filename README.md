@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saksham136/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/saksham136/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saksham136/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/saksham136/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/saksham136/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3548-find-the-count-of-good-integers](https://github.com/saksham136/Leetcode_Solutions/tree/master/3548-find-the-count-of-good-integers) |

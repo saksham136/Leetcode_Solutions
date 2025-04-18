@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/saksham136/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |

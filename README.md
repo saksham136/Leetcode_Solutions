@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saksham136/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saksham136/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/saksham136/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/saksham136/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3548-find-the-count-of-good-integers](https://github.com/saksham136/Leetcode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/saksham136/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/saksham136/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saksham136/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/saksham136/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/saksham136/Leetcode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -259,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/saksham136/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/saksham136/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->

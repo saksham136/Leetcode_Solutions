@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/saksham136/Leetcode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saksham136/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/saksham136/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/saksham136/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/saksham136/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
 |  |

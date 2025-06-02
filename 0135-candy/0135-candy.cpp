@@ -2,38 +2,41 @@ class Solution {
 public:
     int candy(vector<int>& arr) {
         int n=arr.size();
-        vector<int>c(n,1);
-         vector<int>d(n,1);
-         int ans=0;
+        int c=n;
+        int i=1;
 
-
-        for(int i=1;i<n;i++)
+        while(i<n)
         {
-               if(arr[i]>arr[i-1])
-                {
-                    c[i]=c[i-1]+1;
-                }
-        }
-      
-        for(int i=n-2;i>=0;i--)
-        {
-            if(arr[i]>arr[i+1])
-            {
-                d[i]=d[i+1]+1;
+            if(arr[i]==arr[i-1]){
+                    i++;
+                    continue;
             }
+          
+        
+        int peak=0;
+         while(arr[i]>arr[i-1])
+         {
+            peak++;
+            c+=peak;
+            i++;
+            if(i==n)
+            return c;
+         }
+
+         int dip=0;
+         while(i<n && arr[i]<arr[i-1])
+         {
+            dip++;
+            c+=dip;
+            i++;
+         }
+         c-=min(peak,dip);
+
+
+
         }
-
-        for(auto x:c)
-        cout<<x<<" ";
-
-        for(int i=0;i<n;i++)
-        ans+=max(c[i],d[i]);
-
-
+        return c;
        
-       return ans;
-
-
          
         
       

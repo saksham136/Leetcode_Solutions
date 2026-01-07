@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/saksham136/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming

@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1293-three-consecutive-odds](https://github.com/saksham136/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/saksham136/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/saksham136/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/saksham136/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0868-push-dominoes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham136/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Backtracking

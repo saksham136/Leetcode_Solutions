@@ -38,7 +38,7 @@ public:
 
 
 
-    TreeNode* solve(TreeNode*root, set<TreeNode*>s,TreeNode* &res)
+    TreeNode* solve(TreeNode*root, set<TreeNode*>s)
     {
         if(root==NULL)
         return NULL;
@@ -47,13 +47,12 @@ public:
         return root;
 
 
-      TreeNode*l=  solve(root->left,s,res);
-      TreeNode*r=  solve(root->right,s,res);
+      TreeNode*l=  solve(root->left,s);
+      TreeNode*r=  solve(root->right,s);
 
       
       if(l&&r)
       {
-        res=root;
         return root;
       }
       else if(l==NULL)
@@ -64,10 +63,9 @@ public:
 
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
         lot(root);
-        TreeNode*res=new TreeNode(-1);
         vector<TreeNode*>lastlevel=v.back();
         set<TreeNode*>s(lastlevel.begin(),lastlevel.end());
-         return solve(root,s,res);
+         return solve(root,s);
        
         
     }

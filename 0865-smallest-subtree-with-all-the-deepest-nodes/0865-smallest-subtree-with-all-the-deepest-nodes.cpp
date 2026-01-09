@@ -67,9 +67,7 @@ public:
         TreeNode*res=new TreeNode(-1);
         vector<TreeNode*>lastlevel=v.back();
         set<TreeNode*>s(lastlevel.begin(),lastlevel.end());
-        for(auto x:s)
          return solve(root,s,res);
-         return res;
        
         
     }

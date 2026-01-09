@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0797-rabbits-in-forest](https://github.com/saksham136/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/saksham136/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saksham136/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saksham136/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/saksham136/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saksham136/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saksham136/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/saksham136/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |

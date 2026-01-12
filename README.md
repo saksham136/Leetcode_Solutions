@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/saksham136/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham136/Leetcode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/saksham136/Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [1266-minimum-time-visiting-all-points](https://github.com/saksham136/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/saksham136/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/saksham136/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/saksham136/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1266-minimum-time-visiting-all-points](https://github.com/saksham136/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saksham136/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saksham136/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
@@ -309,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saksham136/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/saksham136/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->

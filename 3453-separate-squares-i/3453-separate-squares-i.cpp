@@ -50,8 +50,6 @@ public:
             else 
             l=mid;
         }
-        return l;
-
-        
+        return h; 
     }
 };

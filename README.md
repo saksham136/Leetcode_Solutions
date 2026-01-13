@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saksham136/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saksham136/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saksham136/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/saksham136/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham136/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/saksham136/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saksham136/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/saksham136/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0868-push-dominoes](https://github.com/saksham136/Leetcode_Solutions/tree/master/0868-push-dominoes) |
+| [2396-strictly-palindromic-number](https://github.com/saksham136/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -315,4 +317,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/saksham136/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/saksham136/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

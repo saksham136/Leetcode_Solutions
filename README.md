@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3429-special-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3453-separate-squares-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/saksham136/Leetcode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Linked List
 |  |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3453-separate-squares-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -323,4 +325,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/saksham136/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->

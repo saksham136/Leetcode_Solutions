@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/saksham136/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/saksham136/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/saksham136/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/saksham136/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3429-special-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3453-separate-squares-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |

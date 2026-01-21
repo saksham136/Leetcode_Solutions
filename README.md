@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham136/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/saksham136/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3429-special-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3453-separate-squares-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/saksham136/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saksham136/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saksham136/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |

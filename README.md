@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saksham136/Leetcode_Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saksham136/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/saksham136/Leetcode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## String
 |  |
@@ -101,11 +102,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3453-separate-squares-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/saksham136/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/saksham136/Leetcode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saksham136/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -254,11 +257,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1955-seat-reservation-manager](https://github.com/saksham136/Leetcode_Solutions/tree/master/1955-seat-reservation-manager) |
 | [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/saksham136/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -283,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/saksham136/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -343,4 +349,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/saksham136/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saksham136/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
